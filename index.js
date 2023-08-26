@@ -21,7 +21,7 @@ say('Queen Hentai', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`'${name}' By Dinuwa Official²⁰²³._`, {
+say(`'${name}' By Sithuma Official._`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
