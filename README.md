@@ -1,5 +1,7 @@
 # 💝 QUEEN HENTAI (18+ Adult Video Downloader And More Features) Bot 💝
 
+Mr.Sithum Eshan 
+
 <p align="center">
  <a href="#"><img title="QUEEN HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -34,6 +36,8 @@ QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
     <br>
 <a href='https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='💝SCAN QR💝' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
+3. My Whatsapp bot Group  https://chat.whatsapp.com/Lh9jkAS6dc7Ghwg8VmVROX
+   
 ### a little about this bot
 - ✔️ | **Simple** 
 - ✔️ | **18+ Adult Video Downloader** 
@@ -95,3 +99,5 @@ QUEEN HENTAI Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 - 3. 💭 Mr nima ( Elisa wa owner )
 - 4. 💭 Abhishek ( Abhishek wa owner )
 ---------
+
+Mr .Sithum Eshan Official 
